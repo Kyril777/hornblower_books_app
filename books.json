@@ -1,0 +1,112 @@
+{
+  "books": [{
+    "title" : "Mr. Midshipman Hornblower",
+    "book_number" : "1",
+    "publication_date" : "1950",
+    "main_characters" : ["Midshipman Horatio Hornblower", "Captain Keene", "Sir Edward Pellew", "the Earl of Edrington", "Baron de Charette", "Mr. Tapling"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "mr-midshipman-book-cover.jpg",
+    "hero_image" : "mr-midshipman.jpg"
+  },
+
+  {
+    "title" : "Lieutenant Hornblower",
+    "book_number" : "2",
+    "publication_date" : "1952",
+    "main_characters" : ["Jr. Lieutenant Horatio Hornblower", "Lieutenant William Bush", "Lieutenant Buckland", "Acting Gunner Hobbs", "Maria Mason"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "lieutenant-hornblower-book-cover.jpg",
+    "hero_image" : "lieutenant-hornblower.jpg"
+  },
+
+  {
+    "title" : "Hornblower and the Hotspur",
+    "book_number" : "3",
+    "publication_date" : "1962",
+    "main_characters" : ["Commander Horatio Hornblower", "Maria Hornblower (nee Mason)", "Admiral William Cornwallis"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "hornblower-and-the-hotspur-book-cover.jpg",
+    "hero_image" : "hornblower-and-the-hotspur.jpg"
+  },
+
+  {
+    "title" : "Hornblower During the Crisis",
+    "book_number" : "4",
+    "publication_date" : "1967",
+    "main_characters" : ["Lieutenant Horatio Hornblower", "Captain James Sawyer", "Lieutenant Buckland", "Lieutenant Payne", "Barry Ignatius McCool"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "hornblower-during-crisis-book-cover.jpg",
+    "hero_image" : "hornblower-during-crisis.jpg"
+  },
+
+  {
+    "title" : "Hornblower and the Atropos",
+    "book_number" : "5",
+    "publication_date" : "1953",
+    "main_characters" : ["Captain Horatio Hornblower", "Admioral Horatio Nelson", "Maria Mason Hornblower"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "hornblower-and-the-atropos-book-cover.jpg",
+    "hero_image" : "hornblower-and-the-atropos.jpg"
+  },
+
+  {
+    "title" : "Flying Colours",
+    "book_number" : "6",
+    "publication_date" : "1937",
+    "main_characters" : ["Lieutenant Horatio Hornblower", "Lietenant William Bushr", "El Supremo", "Barbara Wellesley"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "cover" : "flying-colours-book-cover.jpg",
+    "hero_image" : "flying-colours.jpg"
+  },
+
+  {
+    "title" : "A Ship of the Line",
+    "book_number" : "7",
+    "publication_date" : "1937",
+    "main_characters" : ["Horatio Hornblower", "Rear Admiral Percy Leighton", "Lady Barbara Wellesley", "Maria Hornblower"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "ship-of-the-line-book-cover.jpg",
+    "hero_image" : "ship-of-the-line.jpg"
+  },
+
+  {
+    "title" : "Comodore Hornblower",
+    "book_number" : "8",
+    "publication_date" : "1945",
+    "main_characters" : ["Commodore Horatio Hornblower", "Tsar Alexander I", "Carl von Clausewitz"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "commodore-hornblower-book-cover.jpg",
+    "hero_image" : "commodore-hornblower.jpg"
+  },
+
+  {
+    "title" : "Lord Hornblower",
+    "book_number" : "9",
+    "publication_date" : "1946",
+    "main_characters" : ["Horatio Hornblower"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "lord-hornblower-book-cover.jpg",
+    "hero_image" : "lord-hornblower.jpg"
+  },
+
+  {
+    "title" : "Beat to Quarters",
+    "book_number" : "10",
+    "publication_date" : "1937",
+    "main_characters" : ["Horatio Hornblower", "Don Julian Alvarado", "Lady Barbara Wellesley", "Marquess Wellesley", "Sir Arthur Wellesley"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "beat-to-quarters-book-cover.jpg",
+    "hero_image" : "beat-to-quarters.jpg"
+  },
+
+  {
+    "title" : "Admiral Hornblower",
+    "book_number" : "11",
+    "publication_date" : "1957",
+    "main_characters" : ["Horatio Hornblower", "Count Cambronne", "Captain Fell", "Secretary Spendlove"],
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "cover" : "admiral-hornblower-book-cover.jpg",
+    "hero_image" : "admiral-hornblower.jpg"
+  }]
+
+}

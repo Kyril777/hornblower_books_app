@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <% include partials/head.ejs %>
+  </head>
+  <body>
+
+    <% include partials/header.ejs %>
+
+    <!-- Website hero. -->
+    <div id="hero-image">
+      <h1 id="hero-title"><%= title %></h1>
+    </div>
+
+    <!-- Book covers. -->
+    <div id="covers-wrapper" class="content-padding clearfix">
+
+      <% for (var i = 0; i < books.length; i++) { %>
+      <div class="cover">
+
+        <a href="/hornblower_book/<%= books[i].book_number %>">
+
+          <img src="/images/<%= books[i].cover %>" class="img-responsive">
+
+          <div class="cover-info-overlay">
+            <h3><%= books[i].title %></h3>
+            <h4>See More <i class="fa fa-arrow-right"></i></h4>
+          </div>
+
+        </a>
+      </div>
+      <% } %>
+
+    </div>
+
+    <% include partials/footer.ejs %>
+    <% include partials/scripts.ejs %>
+  </body>
+</html>
